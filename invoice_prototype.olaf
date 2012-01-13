@@ -1,7 +1,9 @@
 {
   "1": {
     "name": "Becks 24/0,3",
-    "price": 15.50
+    "price": 15.50,
+    "barcodes": ["4311596464470"],
+    "dependencies": [{"id": "9901"}, {"id": "9902", "quantity": 24}]
   },
   "2": {
     "name": "Hoepfner Grape 24/0.3",
