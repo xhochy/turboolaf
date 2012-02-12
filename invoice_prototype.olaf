@@ -13,7 +13,8 @@
         "price": 0.08,
         "alias": [
             "fb03",
-            "bierflasche"
+            "bierflasche",
+            "25200058"
         ]
     },
     "kasten_bier_mit_24_03": {
@@ -98,7 +99,7 @@
     },
     "kasten_bier_mit_24_03_pfandrueckgabe": {
         "name": "Pfandrückgabe Bierkasten mit 24 0,3l Flaschen",
-        "alias": ["pfandbierkasten24", "p24"],
+        "alias": ["pfandbierkasten24", "p24", "25200010"],
         "dependencies": [
             {
                 "id": "kasten_bier_mit_24_03",
@@ -108,7 +109,7 @@
     },
     "kasten_bier_mit_20_05_pfandrueckgabe": {
         "name": "Pfandrückgabe Bierkasten mit 22 0,5l Flaschen",
-        "alias": ["pfandbierkasten20", "p20"],
+        "alias": ["pfandbierkasten20", "p20", "25200027"],
         "dependencies": [
             {
                 "id": "kasten_bier_mit_20_05",
@@ -117,8 +118,8 @@
         ]
     },
     "kasten_sprudel_pfandrueckgabe": {
-        "name": "PfandrÃ¼ckgabe Sprudelkasten",
-        "alias": ["pfandsprudelkasten", "psp"],
+        "name": "Pfandrückgabe Sprudelkasten",
+        "alias": ["pfandsprudelkasten", "psp", "25200096"],
         "dependencies": [
             {
                 "id": "kasten_sprudel",
@@ -127,8 +128,8 @@
         ]
     },
     "kasten_cola_10_15_pfandrueckgabe": {
-        "name": "PfandrÃ¼ckgabe Cola (10x1,5l)",
-        "alias": ["pfandcola10", "pc10"],
+        "name": "Pfandrückgabe Cola (10x1,5l)",
+        "alias": ["pfandcola10", "pc10", "25200072"],
         "dependencies": [
             {
                 "id": "kasten_cola_10_15",
@@ -137,8 +138,8 @@
         ]
     },
     "kasten_cola_12_10_pfandrueckgabe": {
-        "name": "PfandrÃ¼ckgabe Cola (12x1l)",
-        "alias": ["pfandcola12", "pc12"],
+        "name": "Pfandrückgabe Cola (12x1l)",
+        "alias": ["pfandcola12", "pc12", "25200065"],
         "dependencies": [
             {
                 "id": "kasten_cola_12_10",
@@ -147,8 +148,8 @@
         ]
     },
     "kasten_saft_pfandrueckgabe": {
-        "name": "PfandrÃ¼ckgabe Saftkasten",
-        "alias": ["pfandsaftkasten", "psa"],
+        "name": "Pfandrückgabe Saftkasten",
+        "alias": ["pfandsaftkasten", "psa", "25200119"],
         "dependencies": [
             {
                 "id": "kasten_saft",
@@ -386,7 +387,7 @@
         ]
     },
     "4035903011095": {
-        "name": "Wiesentahler Grapefruidlimo (12x0,7l))",
+        "name": "Wiesentahler Grapefruitlimo (12x0,7l))",
         "alias": ["grapelimo", "grapefruitlimo", "grapefruitlimonade"],
         "price": 5.7,
         "dependencies": [
@@ -437,17 +438,17 @@
     },
     "flasche_cola": {
         "name": "Colaflasche",
-        "alias": ["colaflasche"],
+        "alias": ["colaflasche", "fc", "25200089"],
         "price": 0.15
     },
     "flasche_sprudel": {
         "name": "Sprudelflasche 0,7l",
-        "alias": ["sprudelflasche"],
+        "alias": ["sprudelflasche", "fsp", "25200102"],
         "price": 0.08
     },
     "flasche_saft": {
         "name": "Saftflasche 1l",
-        "alias": ["saftflasche"],
+        "alias": ["saftflasche", "fsa", "25200126"],
         "price": 0.15
     },
     "fass": {
